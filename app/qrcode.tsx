@@ -8,7 +8,7 @@ export default function QRCode() {
           <div className="qrcode">
             {/* <img src="./images/image-qr-code.png" alt="qrcode" /> */}
             <Image
-              src="/images/image-qr-code.png"
+              src="./images/image-qr-code.png"
               alt="QR Code"
               className="qr-image"
               width={200}
